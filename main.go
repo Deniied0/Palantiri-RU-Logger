@@ -55,7 +55,7 @@ func getAllHashes(AssetId int64) map[int]string {
 		if data["errors"] != nil {
 			break
 		}
-		log.Info("Obtained hash location " + fmt.Sprint(data["location"]) + "for ID " + idString)
+		log.Info("Obtained hash location " + fmt.Sprint(data["location"]) + " for ID " + idString)
 		var wa = hashes
 		i2, _ := strconv.Atoi(version)
 		wa[i2] = fmt.Sprint(data["location"])
