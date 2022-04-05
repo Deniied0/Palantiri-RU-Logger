@@ -1,2 +1,2 @@
-# Palantiri-RU-Logger
+# Palantíri-RU-Logger
 Roblox Recently Updated Logger
