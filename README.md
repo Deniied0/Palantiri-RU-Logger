@@ -9,4 +9,4 @@ Yes I know my code is shit, yes I hope your mom fucks herself in the ass with a 
 download a pre built version from the [releases page](https://github.com/Deniied0/Palantiri-RU-Logger/releases/tag/v2)<br/>
 or build it yourself with the go cli:
 ```bash
-go build```
+go build
